@@ -1,0 +1,46 @@
+.chessContainer {
+  padding: 100px
+}
+
+.formChess {
+  margin: auto;
+  display: table;
+}
+
+form {
+  display: table;
+}
+
+p {
+  display: table-row;
+}
+
+label {
+  display: table-cell;
+}
+
+input {
+  display: table-cell;
+  margin-left: 10px;
+}
+
+.okButton {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.thankYou {
+  text-align: center;
+  margin-top: 20px;
+  font-size: xx-large;
+}
+
+.positions {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.board {
+  text-align: center;
+  margin-top: 50px;
+}
